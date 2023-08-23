@@ -1,6 +1,6 @@
 # Active Sampling in Primate Vocal Interactions
 
-Welcome to the GitHub repository for the paper titled "Active Sampling in Primate Vocal Interactions". This repository contains the necessary code and data to reproduce the figures and understand the implementation of the Eigenmotor Information Dynamics (EID) and the active sampling model discussed in the paper.
+Welcome to the GitHub repository for the paper titled "Active Sampling in Primate Vocal Interactions". This repository contains the necessary code and data to reproduce the figures and understand the implementation of the Expected Information Density (EID) and the active sampling model discussed in the paper.
 
 ## Files
 
@@ -27,6 +27,6 @@ For a more comprehensive understanding of the EID and the active sampling model,
 
 If you find this repository useful for your research, please consider citing our paper:
 
-\[Varella, T.T., Takahashi, D.Y., & Ghazanfar, A.A. (2023, in preparation). Active Sampling in Primate Vocal Interactions. Unpublished manuscript.]
+*Varella, T.T., Takahashi, D.Y., & Ghazanfar, A.A. (2023, in preparation). Active Sampling in Primate Vocal Interactions. Unpublished manuscript.*
 
 For any questions or inquiries, please feel free to contact [Thiago T. Varella](https://thiagotvarella.github.io/contact.html).
