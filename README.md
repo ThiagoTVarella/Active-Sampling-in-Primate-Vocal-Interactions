@@ -29,4 +29,4 @@ If you find this repository useful for your research, please consider citing our
 
 \[Varella, T.T., Takahashi, D.Y., & Ghazanfar, A.A. (2023, in preparation). Active Sampling in Primate Vocal Interactions. Unpublished manuscript.]
 
-For any questions or inquiries, please feel free to contact [Thiago T. Varella](mailto:tvarella@princeton.edu).
+For any questions or inquiries, please feel free to contact [Thiago T. Varella](https://thiagotvarella.github.io/contact.html).
