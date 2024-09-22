@@ -7,6 +7,7 @@ Welcome to the GitHub repository for the paper titled "Active Sampling in Primat
 1. **ActiveSamplingFigures.ipynb**: This Jupyter Notebook contains the code required to generate the figures presented in the paper. The code in this notebook utilizes the data provided in the `data.npz` file to create the figures in the paper.
 
 2. **data.npz**: This data file is a key component for reproducing the figures in the paper. It includes the dataset for generating the visual representations. The data file is utilized by the `ActiveSamplingFigures.ipynb` notebook.
+2a. ** data3.npz**: This data file includes some extra data that can be used to reproduce the figures from the peer-reviewed version of the paper.
 
 3. **ActiveSamplingSimulation.ipynb**: This Jupyter Notebook goes beyond the content of the paper and provides additional figures, explanations, and details regarding the implementation of the Expected Information Density and the active sampling model. It can serve as a resource for those who want a deeper understanding of the methodologies and techniques employed in the study.
 
